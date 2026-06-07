@@ -1,0 +1,31 @@
+# ==========================================
+# .gitignore — AfriTalent
+# ==========================================
+
+# Système macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Système Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (si outils locaux)
+node_modules/
+npm-debug.log*
+
+# Fichiers temporaires
+*.tmp
+*.log
+
+# Fichiers sensibles
+.env
+secrets.txt

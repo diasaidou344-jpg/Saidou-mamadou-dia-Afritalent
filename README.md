@@ -10,8 +10,8 @@
 | | |
 |---|---|
 | **Projet** | AfriTalent — Semestre 2 |
-| **Étudiant** | `[Votre NOM Prénom]` |
-| **Classe** | `[Votre classe]` |
+| **Étudiant** | `Saidou mamadou dia` |
+| **Classe** | `[L1cs]` |
 | **Encadrant** | Robert DIASSÉ |
 | **Année** | 2026 |
 
@@ -81,7 +81,7 @@ NOM-Prenom-AfriTalent/
 
 ```bash
 # 1. Cloner le dépôt
-git clone https://github.com/NOM-Prenom/NOM-Prenom-AfriTalent.git
+git clone https://github.com/diasaidou344-jpg/Saidou-mamadou-dia-Afritalent.git
 
 # 2. Ouvrir avec Live Server (VS Code)
 # Installer l'extension "Live Server" → clic droit sur index.html → Open with Live Server
@@ -94,7 +94,7 @@ open index.html
 
 ## 🌐 Site en ligne (GitHub Pages)
 
-🔗 **[https://NOM-Prenom.github.io/NOM-Prenom-AfriTalent/](https://NOM-Prenom.github.io/NOM-Prenom-AfriTalent/)**
+🔗 **[https://diasaidou344-jpg.github.io/Saidou-mamadou-dia-Afritalent/](https://diasaidou344-jpg.github.io/Saidou-mamadou-dia-Afritalent/)**
 
 ---
 
